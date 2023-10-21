@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+span {
+    padding: 10px;
+}
+
+img {
+    height: 60px;
+    padding-left: 25px;
+    padding-right: 50px;
+}
+
+#login {
+    color: rgb(107, 43, 226);
+}
